@@ -1,0 +1,22 @@
+{
+  "name": "twitch-live_chat",
+  "version": "1.0.0",
+  "description": "A live chat web app using Socket.io. Coded on Twitch!",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "twitch - live chat"
+  },
+  "author": "Sandeep S",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "express": "^4.17.1",
+    "node": "^14.0.0",
+    "socket.io": "^2.3.0",
+    "utf-8-validate": "^5.0.2"
+  }
+}
